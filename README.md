@@ -18,6 +18,7 @@ input("What's your name")
 
 ## Comments
 #This is a comment 
+
 print("This is a code")
 
 ## Variables
@@ -31,3 +32,19 @@ my_age = 12
 my_age += 4
 
 #my_age is now 16
+
+## DATA TYPES
+my_number = 354 
+
+print(type(my_number))
+
+my_float = 3.14159
+
+print(type(my_float))
+
+my_string = "Hello"
+
+print(type(my_string))
+
+
+
